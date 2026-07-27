@@ -18,7 +18,7 @@ The dashboard consists of multiple interactive report pages with drill-down capa
 
 ![Executive Overview](images/Executive_overview.png)
 ![Executive Overview](images/Executive_overview_2.png)
-![Executive Overview](images/Executive_overview_3.png)
+![Executive Overview](images/Executive_Overview_3.png)
 
 ---
 
