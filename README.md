@@ -16,31 +16,39 @@ The dashboard consists of multiple interactive report pages with drill-down capa
 
 ## Executive Overview
 
-![Executive Overview](images/Executive_Overview.png)
+![Executive Overview](images/Executive_overview.png)
+![Executive Overview](images/Executive_overview_2.png)
+![Executive Overview](images/Executive_overview_3.png)
 
 ---
 
 ## Sales Insight
 
 ![Sales Insight](images/Sales_Insight.png)
+![Sales Insight](images/Sales_Insight_2.png)
+![Sales Insight](images/Sales_Insight_3.png)
 
 ---
 
 ## Product Insight
 
 ![Product Insight](images/Product_Insight.png)
+![Product Insight](images/Product_Insight_2.png)
 
 ---
 
 ## Customer Insight
 
 ![Customer Insight](images/Customer_Insight.png)
+![Customer Insight](images/Customer_Insight_2.png)
 
 ---
 
 ## Forecast & Business Recommendations
 
-![Forecast](images/Forecast_Page.png)
+![Forecast](images/Forcast_Page.png)
+![Forecast](images/Forcast_Page_2.png)
+![Forecast](images/Forecast_Page_3.png)
 
 ---
 
